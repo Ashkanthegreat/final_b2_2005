@@ -208,12 +208,53 @@
           null,
           null,
           1,
+          null,
+          1,
           null
         ]
       },
       "/Users/huxley/2module/friday_challenges/final_b2_2005/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/huxley/2module/friday_challenges/final_b2_2005/spec/features/passengers/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
           null
         ]
       },
@@ -307,7 +348,7 @@
           1,
           null,
           1,
-          1,
+          2,
           null,
           null,
           null,
@@ -320,8 +361,18 @@
           1,
           null
         ]
+      },
+      "/Users/huxley/2module/friday_challenges/final_b2_2005/app/controllers/passengers_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1596472719
+    "timestamp": 1596475149
   }
 }
