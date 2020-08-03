@@ -21,26 +21,8 @@ RSpec.describe "Flights Show Page" do
       expect(page).to have_content(reno.depar_city)
       expect(page).to have_content(reno.arrive_city)
       expect(page).to have_content("Frontier")
-
-
-
-
-
-
+      expect(page).to have_content("Jim")
+      expect(page).to have_content("Jim Jr")
     end
-
   end
 end
-
-# User Story 1, Flights Show Page
-# ​
-# As a visitor
-# When I visit a flights show page
-# I see all of that flights information including:
-#   - number
-#   - date
-#   - time
-#   - departure city
-#   - arrival city
-# And I see the name of the airline this flight belongs
-# And I see the names of all of the passengers on this flight
